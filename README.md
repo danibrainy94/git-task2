@@ -14,9 +14,9 @@
 -----------------------------------------------------------------------------------------------------------------
 
 3. List 3 other github alternatives.
-    i. Gitea
-    ii. Bitbucket
-    iii. Gitlab
+    * Gitea
+    * Bitbucket
+    * Gitlab
 -----------------------------------------------------------------------------------------------------------------
 
 4. Explain the difference between git fetch and git pull.
